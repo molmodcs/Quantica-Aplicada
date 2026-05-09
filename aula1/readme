@@ -1,1 +1,4 @@
-
+Este diretório possui os arquivos e instruções da prática #1, começando com os cálculos para o átomo de hidrogênio.
+Os arquivos `run.sh` e `get_energia.sh` são scripts em bash para executar os cálculos em cada DIR. Cada um dos diretórios 
+estão os inputs do ORCA para as respectivas funções base. Neste exemplo, queremos mostrar o limite da função base ao 
+aproximar o valor da energia ao valor exato conhecido analiticamente para o hidrogênio, que é de **-0.5 hartree** ou **-13.6 eV**.
