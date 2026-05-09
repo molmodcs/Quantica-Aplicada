@@ -1,8 +1,8 @@
 ---
 
 # Quântica Aplicada 
-### Prof. Luciano T. Costa
-### e-mail: ltcosta@id.uff.br
+#### Prof. Luciano T. Costa
+#### e-mail: ltcosta@id.uff.br
 
 ### Repositório de Química Quântica Aplicada para Graduação em Química
 
@@ -20,59 +20,43 @@ As práticas são realizadas utilizando pacotes de química computacional (como 
 
 ### [aula1/](https://www.google.com/search?q=aula1/) - O Átomo de Hidrogênio e Limite da Função Base
 
-* 
-**Teoria:** Revisão da Equação de Schrödinger independente do tempo e solução para sistemas monoeletrônicos. Variação da função base
+*  **Teoria:** Revisão da Equação de Schrödinger independente do tempo e solução para sistemas monoeletrônicos. Variação da função base
   e práticas com a molécula de hidrogênio e o íon molecular de hidrogênio. 
 
-* 
-**Prática:** Introdução sobre o preparo de inputs para o ORCA, formatos de arquivos, função base, interpretação do arquivos de output e função de onda ($\Psi$).
+*  **Prática:** Introdução sobre o preparo de inputs para o ORCA, formatos de arquivos, função base, interpretação do arquivos de output e função de onda ($\Psi$).
 
-* 
-**Conceitos Chave:** função de onda e energia, função base e método variacional.
+*  **Conceitos Chave:** função de onda e energia, função base e método variacional.
 
 
 ### [aula2/](https://www.google.com/search?q=aula2/) - Métodos Variacionais, Hartree-Fock e Limite da Função Base (HF)
 
-* 
-**Teoria:** Aplicação do Princípio Variacional para otimização de coeficientes e o método de campo autoconsistente (SCF), orbitais.
+* **Teoria:** Aplicação do Princípio Variacional para otimização de coeficientes e o método de campo autoconsistente (SCF), orbitais.
 
-* 
-**Prática:** Execução de cálculos SCF para moléculas simples e análise da convergência de energia.
+* **Prática:** Execução de cálculos SCF para moléculas simples e análise da convergência de energia.
 
-* 
-**Conceitos Chave:** Determinante de Slater, antisimetria e o Princípio de Exclusão de Pauli, modelo orbital.
+* **Conceitos Chave:** Determinante de Slater, antisimetria e o Princípio de Exclusão de Pauli, modelo orbital.
 
 
 ### [aula3/](https://www.google.com/search?q=aula3/) - Conjuntos de Funções Base (*Basis Sets*), Teoria do Funcional da Densidade
 
-* 
-**Teoria:** Expansão de orbitais moleculares como Combinação Linear de Orbitais Atômicos (LCAO) usando Gaussianas Primitivas e Contraídas, introdução à
+* **Teoria:** Expansão de orbitais moleculares como Combinação Linear de Orbitais Atômicos (LCAO) usando Gaussianas Primitivas e Contraídas, introdução à
   Teoria do Funcional da Densidade
 
 
-* 
-**Prática:** 
+* **Prática:** 
 
 
-* 
-**Conceitos Chave:** 
-
-
+* **Conceitos Chave:** 
 
 ### [aula4/](https://www.google.com/search?q=aula4/) - Espectroscopia Vibracional e Cálculos de Frequência
 
-* 
-**Teoria:** 
+* **Teoria:** 
 
 
-* 
-**Prática:** 
+* **Prática:** 
 
 
-* 
-**Conceitos Chave:** 
-
-
+* **Conceitos Chave:** 
 
 ---
 
