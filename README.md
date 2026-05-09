@@ -1,8 +1,8 @@
 ---
 
 # Quântica Aplicada 
-# Prof. Luciano T. Costa
-# e-mail: ltcosta@id.uff.br
+### Prof. Luciano T. Costa
+### e-mail: ltcosta@id.uff.br
 
 ### Repositório de Química Quântica Aplicada para Graduação em Química
 
