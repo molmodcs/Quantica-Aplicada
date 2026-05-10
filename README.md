@@ -76,8 +76,9 @@ As práticas são realizadas utilizando pacotes de química computacional (como 
 * **Notepad++** Para edição dos arquivos texto
  Ótimo editor de texto para usuários Windows que não possuem familiarização com [VIM](https://www.vim.org/) e [emacs](https://www.gnu.org/software/emacs/). Pode baixar em [notepad++](https://notepad-plus-plus.org/downloads/).
   
-* **MobaXterm** Para execução dos cálculo no Windows
-*  **Jupyter-Notebook** Para demonstração de aulas e gráficos
+* **MobaXterm** Para execução dos cálculos no Windows. Usuários com Linux ou Mac não precisam. A partir desta janela de console, você poderá executar os comandos Unix necessários: ls, cd, grep, awk, tail, cut, sed, wget, rsync, telnet, ssh, rlogin, rsh... Todas as ferramentas essenciais do Unix estão presentes. Caso precise de algum programa que não esteja disponível no arquivo MobaXterm básico, você pode baixar os plugins gratuitos. Ver [link](https://mobaxterm.mobatek.net/download.html).
+  
+*  **Jupyter-Notebook** Para demonstração de aulas e gráficos. Para facilitar para os estudantes, usaremos os códigos em Python no [Google COLAB](https://colab.research.google.com/).
 
 **Conhecimentos Prévios:** Introdução à Química Quântica, Álgebra Linear (notação de Dirac) e Cálculo Diferencial.
 
