@@ -63,8 +63,19 @@ As práticas são realizadas utilizando pacotes de química computacional (como 
 ## 🛠️ Requisitos e Ferramentas
 
 * **Avogadro:** Para construção e visualização molecular.
+- Estou deixando aqui um tutorial breve da versão antiga do Avogadro, porém um usuário interessado pode explorar um tutorial no website do [Avogadro](https://avogadro.cc/docs/tutorials/index.html). Um excelente tutorial do ORCA com Avogadro que recomendo é o da IaNiusha, em [Playlist ORCA](https://www.youtube.com/watch?v=q20J0iIuyEQ&list=PLxm4o04Xz3Bb7q5EKZNHnA8peEuJQYk0L). 
+
+  
 * **ORCA:** Para cálculos de estrutura eletrônica.
+
+- Para as aulas ministradas no LACAP, usaremos uma versão antiga do ORCA, porém estável e que ocupa um espaço menor comparado com as versões mais recentes.
+  O tutorial de instalação e uso do ORCA está baseado na versão 4.2.1, porém se o usuário possui espaço em disco pode baixar a versão mais recente em
+  [ORCA forum](https://orcaforum.kofo.mpg.de/app.php/portal). O usuário deve fazer o registro e depois em Downloads baixar a versão de sua escolha.
+  Tutoriais e documentação podem ser acessados em [FACCTS ORCA](https://www.faccts.de/docs#orca). O download do manual está neste [link](https://www.faccts.de/docs/orca/6.1/manual/). 
+  
 * **Notepad++** Para edição dos arquivos texto
+- Ótimo editor de texto para usuários Windows que não possuem familiarização com [VIM](https://www.vim.org/) e [emacs](https://www.gnu.org/software/emacs/). Pode baixar em [notepad++](https://notepad-plus-plus.org/downloads/).
+  
 * **MobaXterm** Para execução dos cálculo no Windows
 *  **Jupyter-Notebook** Para demonstração de aulas e gráficos
 
